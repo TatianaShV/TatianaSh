@@ -14,4 +14,7 @@ Windows, IntelliJ IDEA, Spring Framework, Rest, Docker.
 * 💸 [Менеджер личных финансов](https://github.com/TatianaShV/ManagerOfFinances.git)
 * 🔍[Поисковая система](https://github.com/TatianaShV/pcs-final-diplom.git)
  
-
+## Сертификаты Нетологии
+* [Java-разработка для начинающих](https://netology.ru/sharing/c11bdfcfc48e042a704dce7ec5597ea2?utm_source=social&utm_campaign=certificate_lms )
+* [Web, Spring & Spring MVC](https://netology.ru/sharing/e1e587bb604f2b9712b55f8ac0fcbd95?utm_source=social&utm_campaign=certificate_lms)
+* [Многопоточное и функциональное программирование](https://netology.ru/sharing/b36a0a37faabc7b03fa9badce75f877c?utm_source=social&utm_campaign=certificate_lms )
