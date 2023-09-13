@@ -1,6 +1,7 @@
 # Привет👋, я Татьяна Шарова, Java-разработчик.
 Мне нравится писать код, решать задачи, изучать новые вещи. 
-<p align="left"> <a href=https://t.me/TatyanaSh1107> <img src="https://icon-icons.com/ru/значок/телеграмма-логотип/134592)" width="40" height="40"/> </a>  <a href=https://api.whatsapp.com/send?phone=79522340375> <img src="https://icon-icons.com/ru/значок/WhatsApp-социальная-сеть/33936" width="40" height="40"/> </a> </p>
+<p align="left"> <a href=https://t.me/TatyanaSh1107> <img src="https://github.com/TatianaShV/TatianaSh/blob/main/telegram_logo_icon_134592.png" alt="telegram" width="40" height="40"/> </a>  <a href=https://api.whatsapp.com/send?phone=79522340375> <img src="https://github.com/TatianaShV/TatianaSh/blob/main/Whatsapp-Icon_33936.png" alt="WhatsApp" width="40" height="40"/> </a> <a href="mailto:artemis1192@mail.ru"> <img src="https://github.com/TatianaShV/TatianaSh/blob/main/Mail_31108.png"alt="mail" width="40" height="40"> </p>
+
 
 ## Мой стек
 Windows, IntelliJ IDEA, Spring Framework, Rest, Docker.
