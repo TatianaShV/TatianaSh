@@ -1,5 +1,6 @@
 # Привет👋, я Татьяна Шарова, Java-разработчик.
 Мне нравится писать код, решать задачи, изучать новые вещи. 
+<p align="left"> <a href=https://t.me/TatyanaSh1107> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 
 ## Мой стек
 Windows, IntelliJ IDEA, Spring Framework, Rest, Docker.
