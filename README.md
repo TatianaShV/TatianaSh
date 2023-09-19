@@ -18,4 +18,4 @@
 * [Java-разработка для начинающих](https://github.com/TatianaShV/TatianaShV/blob/main/сertificates/certificate1.pdf)
 * [Web, Spring & Spring MVC](https://github.com/TatianaShV/TatianaShV/blob/main/сertificates/certificate3.pdf)
 * [Многопоточное и функциональное программирование](https://github.com/TatianaShV/TatianaShV/blob/main/сertificates/certificate2.pdf)
-* [Основы разработки на Java]().
+* [Основы разработки на Java](https://github.com/TatianaShV/TatianaShV/blob/main/сertificates/certificate4.pdf).
