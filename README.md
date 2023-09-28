@@ -20,3 +20,4 @@
 * [Web, Spring & Spring MVC](https://github.com/TatianaShV/TatianaShV/blob/main/сertificates/certificate3.pdf)
 * [Многопоточное и функциональное программирование](https://github.com/TatianaShV/TatianaShV/blob/main/сertificates/certificate2.pdf)
 * [Основы разработки на Java](https://github.com/TatianaShV/TatianaShV/blob/main/сertificates/certificate4.pdf)
+* [Первые шаги в JavaScript](https://github.com/TatianaShV/TatianaShV/blob/main/сertificates/certificatejs.pdf)
