@@ -9,7 +9,7 @@
    <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/TatianaShV/TatianaShV/blob/main/pictures/Maven-Icono-www.Jarroba.com_.png" alt="maven" width="40" height="40"/> </a></p>
 
 ## Мои работы
-* 📈 [Алгоритмические задачи]()
+* 📈 [Алгоритмические задачи](https://github.com/TatianaShV/Algorithms/blob/main/README.md)
 * 🐱‍💻 [Конвертер в текстовую графику](https://github.com/TatianaShV/Converter.git)
 * 🛒[Планировщик продуктовой корзины](https://github.com/TatianaShV/Basket.git)
 * 📑 [Менеджер задач](https://github.com/TatianaShV/ManagerOfTasks.git)
