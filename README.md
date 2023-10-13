@@ -1,6 +1,6 @@
 # Привет👋, я Татьяна Шарова, Java-разработчик.
 Мне нравится писать код, решать задачи, изучать новое. 
-<p align="left"> <a href=https://t.me/TatyanaSh1107> <img src="https://github.com/TatianaShV/TatianaShV/blob/main/pictures/telegram_logo_icon_134592.png" alt="telegram" width="40" height="40"/> </a>  <a href=https://api.whatsapp.com/send?phone=79522340375> <img src="https://github.com/TatianaShV/TatianaShV/blob/main/pictures/Whatsapp-Icon_33936.png" alt="WhatsApp" width="40" height="40"/> </a> <a href="mailto:artemis1192@mail.ru"> <img src="https://github.com/TatianaShV/TatianaShV/blob/main/pictures/Mail_31108.png" alt="mail" width="40" height="40"> </p>
+<p align="left"> <a href=https://t.me/TatyanaSh1107> <img src="https://github.com/TatianaShV/TatianaShV/blob/main/pictures/telegram_logo_icon_134592.png" alt="telegram" width="40" height="40"/> </a>  <a href=https://api.whatsapp.com/send?phone=79522340375> <img src="https://github.com/TatianaShV/TatianaShV/blob/main/pictures/Whatsapp-Icon_33936.png" alt="WhatsApp" width="40" height="40"/> </a> <a href="mailto:t.sharova260418@gmail.com"> <img src="https://github.com/TatianaShV/TatianaShV/blob/main/pictures/Mail_31108.png" alt="mail" width="40" height="40"> </p>
 
 
 ## Мой стек
@@ -9,6 +9,7 @@
    <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/TatianaShV/TatianaShV/blob/main/pictures/Maven-Icono-www.Jarroba.com_.png" alt="maven" width="40" height="40"/> </a></p>
 
 ## Мои работы
+* 📈 [Алгоритмические задачи]()
 * 🐱‍💻 [Конвертер в текстовую графику](https://github.com/TatianaShV/Converter.git)
 * 🛒[Планировщик продуктовой корзины](https://github.com/TatianaShV/Basket.git)
 * 📑 [Менеджер задач](https://github.com/TatianaShV/ManagerOfTasks.git)
